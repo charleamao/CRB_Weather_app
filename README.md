@@ -1,5 +1,5 @@
 # CRB_Weather_app
-Supporting python scripts to parse NAM grib data for use in the Crop Residue Burning website of Manitoba Agriculture. This README will teach you how to install the program in your computer for development purposes. Before completing the steps below, install the latest PyCharm Community Edition and create/activate the py27 
+Supporting python  and Javascript code to parse NAM grib data for use in the Crop Residue Burning website of Manitoba Agriculture. This README will teach you how to install the program in your computer for development purposes. Before completing the steps below, install the latest PyCharm Community Edition and create/activate the py27 
 environment. Please refer to the Daily-Data-Upload Job Aid.
 
 ## Cloning the Repository
